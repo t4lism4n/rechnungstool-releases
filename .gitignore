@@ -1,0 +1,4 @@
+# Only track release files
+*.log
+.DS_Store
+node_modules/
